@@ -1,0 +1,51 @@
+{
+  "categorias": [
+    {
+      "titulo": "Verbs",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "List of verbs...",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        }
+      ]
+    },
+    {
+      "titulo": "Vocabulary",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "List of vocabulary...",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        }
+      ]
+    },
+    {
+      "titulo": "Expression",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "List of expressions...",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        }
+      ]
+    }
+  ]
+}
